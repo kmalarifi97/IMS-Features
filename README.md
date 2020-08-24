@@ -9,3 +9,5 @@ popular institutions and any information about them. One of our main goals is ma
 document they need directly from the system. The key stakeholder is the administrator where he is responsible of accepting student’s applications if they achieved training 
 requirement.  he is also responsible about institutions accounts and manage the process of assign students to their supervisors also he can approve, disapprove any documents and 
 handling student’s complaints.
+
+* Note: this repo contain only system features not complete documentation
